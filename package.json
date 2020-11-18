@@ -1,0 +1,26 @@
+{
+  "name": "green-trees",
+  "version": "1.0.0",
+  "description": "A starting repository that can grow into something more if maintained - like a tree!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "green",
+    "trees",
+    "green-trees",
+    "component",
+    "react"
+  ],
+  "author": "Sara Makishti",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saramakishti/green-trees.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saramakishti/green-trees/issues"
+  },
+  "homepage": "https://github.com/saramakishti/green-trees#readme"
+}
