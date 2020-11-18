@@ -15,10 +15,7 @@
   ],
   "author": "Sara Makishti",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/saramakishti/green-trees.git"
-  },
+  "repository": "saramakishti/green-trees",
   "bugs": {
     "url": "https://github.com/saramakishti/green-trees/issues"
   },
